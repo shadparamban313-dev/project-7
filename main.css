@@ -1,7 +1,8 @@
 body {
   margin: 0px;
-  pad: 0px;
+  padding: 0px;
 }
+
 
 .navbar {
   display: flex;
@@ -220,9 +221,7 @@ body {
 .card:hover{
   transform: scale(1.1);
 }
-body {
-  margin: 30px;
-}
+
 .og {
   display: flex;
   justify-content: space-between;
@@ -344,13 +343,7 @@ body {
   color: white;
   border-radius: 25px;
 }
-body {
-    font-family: Arial, sans-serif;
-  
-   
-    padding: 20px;
-    color: #333333;
-}
+
 
 footer {
     background-color: #ffffff;
@@ -481,3 +474,4 @@ footer hr {
     .footer-bottom span {
         margin-bottom: 10px;
     }
+    
